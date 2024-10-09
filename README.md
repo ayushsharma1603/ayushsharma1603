@@ -28,6 +28,7 @@ I’m a passionate developer with a keen interest in building efficient and scal
 
 - GitHub: [@ayushsharma1603](https://github.com/ayushsharma1603)
 - Email: ayushsharmapro18@gmail.com
+- LinkedIn: [ayush-sharma1603123](https://www.linkedin.com/in/ayush-sharma1603123/)
 
 ---
 
