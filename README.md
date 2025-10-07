@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size:50px;">👋 Hi there, I'm Ayush Sharma!</h1>
 <p align="center">
   🎯 Aspiring Software Engineer | 💻 Full-Stack Developer (MERN & Java) | 🌟 4⭐ Java @ HackerRank |
-  Building scalable web applications | Open to internship & entry-level SDE roles
+  Building scalable web applications | Open to entry-level SDE roles
 </p>
 
 
